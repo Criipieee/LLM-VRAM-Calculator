@@ -33,7 +33,3 @@ A minimalist, high-precision tool designed to estimate Video RAM (VRAM) requirem
    - Select the Optimizer type (AdamW, SGD, etc.).
    - Toggle Gradient Checkpointing to trade compute for memory.
    - Adjust LoRA Rank percentage for fine-tuning.
-
-## License
-
-MIT
