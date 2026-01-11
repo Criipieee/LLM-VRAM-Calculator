@@ -2,7 +2,8 @@
 
 A minimalist, high-precision tool designed to estimate Video RAM (VRAM) requirements for running, training, and fine-tuning Large Language Models (LLMs).
 
-<img width="1116" height="809" alt="Bildschirmfoto 2026-01-11 um 22 05 25" src="https://github.com/user-attachments/assets/ae2a75ee-b8a9-428f-ba44-1daccba2f0da" />
+![App Screenshot](https://via.placeholder.com/1200x675/000000/FFFFFF?text=LLM+VRAM+Calculator+Screenshot)
+*(Replace the link above with an actual screenshot of your application)*
 
 ## Features
 
@@ -33,3 +34,7 @@ A minimalist, high-precision tool designed to estimate Video RAM (VRAM) requirem
    - Select the Optimizer type (AdamW, SGD, etc.).
    - Toggle Gradient Checkpointing to trade compute for memory.
    - Adjust LoRA Rank percentage for fine-tuning.
+
+## License
+
+MIT
