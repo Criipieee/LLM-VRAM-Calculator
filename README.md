@@ -2,8 +2,7 @@
 
 A minimalist, high-precision tool designed to estimate Video RAM (VRAM) requirements for running, training, and fine-tuning Large Language Models (LLMs).
 
-![App Screenshot](https://via.placeholder.com/1200x675/000000/FFFFFF?text=LLM+VRAM+Calculator+Screenshot)
-*(Replace the link above with an actual screenshot of your application)*
+<img width="1116" height="809" alt="Bildschirmfoto 2026-01-11 um 22 05 25" src="https://github.com/user-attachments/assets/fc167493-cf47-48bb-bc4d-757e4df90034" />
 
 ## Features
 
