@@ -1,0 +1,5 @@
+{
+  "name": "LLM VRAM Calculator",
+  "description": "A minimalist, high-precision VRAM calculator for AI model inference, training, and fine-tuning. Features a monochromatic aesthetic and advanced breakdown metrics.",
+  "requestFramePermissions": []
+}
